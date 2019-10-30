@@ -1,0 +1,1 @@
+It's my own implementation of RSA. I hope no one thinks of using this for real purposes. I wrote this for training only. Don't try to use it. It's terrible code and there is terrible performance.
